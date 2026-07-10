@@ -26,6 +26,10 @@ public class LoginPageclass
 	       {
 	    	   this.usernamelogin.sendKeys(username);
 	       }
+	       public void usernameloginone(String username)
+	       {
+	    	   this.usernamelogin.sendKeys(username);
+	       }
 	       
 	       
 	       public void passwordLogin(String password)
